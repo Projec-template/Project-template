@@ -225,28 +225,30 @@ Project-template
 <!-- Github奖杯🏆end -->
 <br>
 
-<div align="center"></div>
-<!-- Github连续打卡start -->
 <div align="center">
-<img src="https://profile-counter.glitch.me/Project-template/count.svg">
+    <img src="https://profile-counter.glitch.me/Project-template/count.svg">
+</div>
+<!-- Github连续打卡start -->
+
+<div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Project-template&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 
 <!-- Github连续打卡end -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Project-template&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Project-template&hide&layout=compact&hide_title=true&hide_border=true&show_icons=trueline_height=21&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 <br>
 <!-- 统计卡片start -->
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Project-template&theme=react-dark&point=#4FFBDF" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Project-template&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Project-template&hide&layout=compact&hide_title=true&hide_border=true&show_icons=trueline_height=21&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </p>
 
 <!-- 统计卡片end -->
 <br>
 </div>
-
-
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=Project-template&theme=react-dark&point=#4FFBDF" />
+</div
 
 
