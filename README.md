@@ -214,9 +214,9 @@ Project-template
   <a href="https://gitee.com/LanYu-Project-template" target="_blank">       
     <img src="https://img.shields.io/badge/GitHub-Project-template-orange.svg?style=plastic&logo=Gitee">
    </a>
-</p>
 <!-- 徽章end -->
 <br>
+</p>
 
 <!-- Github奖杯🏆start -->
 <div align="center"> 
