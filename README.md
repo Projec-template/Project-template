@@ -209,23 +209,23 @@ Project-template
   <a href=" " target="_blank">
 	 <img src="https://img.shields.io/badge/WebSite-个人网站-blue.svg?style=plastic&logo=Webflow">
   </a>
-
   <!-- Gitee徽章 -- >
   <a href="https://gitee.com/LanYu-Project-template" target="_blank">       
     <img src="https://img.shields.io/badge/GitHub-Project-template-orange.svg?style=plastic&logo=Gitee">
    </a>
+</p>
 <!-- 徽章end -->
 <br>
-</p>
+
 
 <!-- Github奖杯🏆start -->
 <div align="center"> 
+	<img src="https://github-profile-trophy.vercel.app/?username=Project-template&no-bg=true&column=6">
 </div>
 <!-- Github奖杯🏆end -->
 <br>
 
 <div align="center"></div>
-<img src="https://github-profile-trophy.vercel.app/?username=Project-template&no-bg=true&column=6">
 <!-- Github连续打卡start -->
 <div align="center">
 <img src="https://profile-counter.glitch.me/Project-template/count.svg">
