@@ -1,7 +1,7 @@
 <div>
-   <a href="https://github.com/Project-template/">
+   <a href="https://github.com/Project-Template/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=
-Project-template
+Project-Template
 &repo=LanYu-Project-template&theme=aura"></a>
 </div>
 
@@ -200,11 +200,11 @@ Project-template
 
 <p align="center">
   <!-- Github徽章 -->
-	<img src="https://img.shields.io/badge/GitHub-Project-template-success.svg?style=plastic&logo=Github">
+	<img src="https://img.shields.io/badge/GitHub-Project-Template-success.svg?style=plastic&logo=Github">
   <!-- CSDN徽章 -->
 	<img src="https://img.shields.io/badge/CSDN-CSDN-博客-yellow.svg?style=plastic&logo=C">
    <!-- 访客徽章 -->
-	<img src="https://visitor-badge.glitch.me/badge?page_id=Project-template&left_color=red&right_color=blueviolet">
+	<img src="https://visitor-badge.glitch.me/badge?page_id=Project-Template&left_color=red&right_color=blueviolet">
   <!-- 个人网站徽章 -->
   <a href=" " target="_blank">
 	 <img src="https://img.shields.io/badge/WebSite-个人网站-blue.svg?style=plastic&logo=Webflow">
@@ -220,19 +220,19 @@ Project-template
 
 <!-- Github奖杯🏆start -->
 <div align="center"> 
-	<img src="https://github-profile-trophy.vercel.app/?username=Project-template&no-bg=true&column=6">
+	<img src="https://github-profile-trophy.vercel.app/?username=Project-Template&no-bg=true&column=6">
 </div>
 <!-- Github奖杯🏆end -->
 <br>
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/Project-template/count.svg">
+    <img src="https://profile-counter.glitch.me/Project-Template/count.svg">
 </div>
 <!-- Github连续打卡start -->
 
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Project-template&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Project-Template&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 
@@ -240,15 +240,15 @@ Project-template
 <br>
 <!-- 统计卡片start -->
 <p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Project-template&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Project-template&hide&layout=compact&hide_title=true&hide_border=true&show_icons=trueline_height=21&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Project-Template&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Project-Template&hide&layout=compact&hide_title=true&hide_border=true&show_icons=trueline_height=21&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </p>
 
 <!-- 统计卡片end -->
 <br>
 </div>
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Project-template&theme=react-dark&point=#4FFBDF" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Project-Template&theme=react-dark&point=#4FFBDF" />
 </div
 
 
