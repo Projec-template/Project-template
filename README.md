@@ -16,3 +16,7 @@ Project-template
       <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/angular.svg" alt="angular" width="40" height="40"/>   </a> 
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+   <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/codeigniter.svg" alt="codeigniter" width="40" height="40"/></a> 
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>    </a>
