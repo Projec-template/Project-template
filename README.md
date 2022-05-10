@@ -44,57 +44,57 @@ Project-template
      </a>
 
   <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/quasar-logo.svg" alt="quasar" width="40" height="40"/>
      </a>
 
 	
 
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/vuetify.svg" alt="vuetify" width="40" height="40"/>
      </a> 
 
 	
 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/sass-original.svg" alt="sass" width="40" height="40"/>
      </a> 
 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/typescript-original.svg" alt="typescript" width="40" height="40"/>
      </a>
 
 	
 
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
      </a>
 
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/apache_hadoop-icon.svg" alt="elasticsearch" width="40" height="40"/>
      </a>
 
 	
 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/mariadb.png" alt="elasticsearch" width="40" height="40"/>
      </a>
 
 	
 
  <a href="https://redis.com/" target="_blank" rel="noreferrer">
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/redis-original-wordmark.svg" alt="elasticsearch" width="40" height="40"/>
      </a>
 
 	
 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/redis-original-wordmark.svg" alt="elasticsearch" width="40" height="40"/>
      </a>
 
 	
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/postgresql-original-wordmark.svg" alt="elasticsearch" width="40" height="40"/>
      </a>
 
 	
