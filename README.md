@@ -210,8 +210,10 @@ Project-template
 	 <img src="https://img.shields.io/badge/WebSite-个人网站-blue.svg?style=plastic&logo=Webflow">
   </a>
 
-  <!-- Gitee徽章 -->
+  <!-- Gitee徽章 -- >
+  <a href="https://gitee.com/LanYu-Project-template" target="_blank">       
     <img src="https://img.shields.io/badge/GitHub-Project-template-orange.svg?style=plastic&logo=Gitee">
+   </a>
 </p>
 <!-- 徽章end -->
 <br>
