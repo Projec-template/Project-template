@@ -27,20 +27,20 @@ Project-template
      <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
      </a> 
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+	<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/javascript-original.svg" alt="javascript" width="40" height="40"/>
      </a> 
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/react-original-wordmark.svg" alt="react" width="40" height="40"/>
      </a> 
 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
      </a> 
 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-
+<img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/header_logo.svg" alt="reactnative" width="40" height="40"/>
      </a>
 
   <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
