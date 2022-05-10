@@ -194,5 +194,78 @@ Project-template
    <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/服务端/apache_solr-icon.svg" alt="solr" width="40" height="40"/>
       </a> 
+</p>
+
+<!-- 徽章start -->
+
+<p align="center">
+  <!-- Github徽章 -->
+	<img src="https://img.shields.io/badge/GitHub-LanYu--Project--template-success.svg?style=plastic&logo=Github">
+  <!-- CSDN徽章 -->
+ <img src="https://img.shields.io/badge/CSDN-岚宇CSDN博客-yellow.svg?style=plastic&logo=C">
+   <!-- 访客徽章 -->
+ <img src="https://visitor-badge.glitch.me/badge?page_id=LanYu-Project-template&left_color=red&right_color=blueviolet">
+  <!-- 个人网站徽章 -->
+  <a href=" " target="_blank">
+ <img src="https://img.shields.io/badge/WebSite-岚宇个人网站-blue.svg?style=plastic&logo=Webflow">
+  </a>
+
+  <!-- Gitee徽章 -->
+    <img src="https://img.shields.io/badge/GitHub-LanYu--Project--template-orange.svg?style=plastic&logo=Gitee">
+</p>
+<!-- 徽章end -->
+<br>
+
+<!-- Github奖杯🏆start -->
+<div align="center"> 
+	
+</div>
+
+<!-- Github奖杯🏆end -->
+
+<br>
+
+<div align="center"></div>
+<img src="https://github-profile-trophy.vercel.app/?username=LanYu-Project-template&no-bg=true&column=6">
+<!-- Github连续打卡start -->
+
+<div align="center">
+<img src="https://profile-counter.glitch.me/LanYu-Project-template/count.svg">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LanYu-Project-template&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+
+  
+
+</div>
+
+<!-- Github连续打卡end -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=LanYu-Project-template&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanYu-Project-template&hide&layout=compact&hide_title=true&hide_border=true&show_icons=trueline_height=21&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<br>
+
+<!-- 统计卡片start -->
+
+<p align="center">
+
+  
+
+  
 
 </p>
+
+<!-- 统计卡片end -->
+
+<br>
+
+</div>
+
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=react-dark&point=#4FFBDF" />
+	
+
+</div>
+
+
+
+
