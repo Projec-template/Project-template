@@ -232,7 +232,7 @@ Project-Template
 
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Project-Template" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Project-Template" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 
